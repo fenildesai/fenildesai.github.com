@@ -32,7 +32,7 @@ let profile = {
   },
   experience: [
     {
-      title: "Accosiate Consultant",
+      title: "Associate Consultant",
       company: "Tata Consultancy Services",
       url: "https://www.tcs.com/",
       location: "Pune, India",
