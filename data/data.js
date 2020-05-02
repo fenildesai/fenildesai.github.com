@@ -19,6 +19,9 @@ let profile = {
     "C#",
     ".NET Core",
     "Azure DevOps",
+    "React",
+    "WebRTC",
+    "AWS"
     "HTML",
     "Javascript",
     "SQL",
